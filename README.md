@@ -1,19 +1,29 @@
 # The Gaming Room
 
 ## Client and Software Needs
+**Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?**
 - **Client:** The Gaming Room
 - **Software Needed:** The client wanted to transform their Android game, "Draw it or Lose it," into a web-based game. They required software that would allow multiple teams with different player names to play the game seamlessly, with a focus on eliminating memory-related issues.
 
+The client was The Gaming Room, and they wanted to turn their Android game "Draw it or Lose it" into a web game. They needed software to let multiple teams with different player names play the game. Plus, they wanted the game to run smoothly without any memory problems.
+
 ## Document Strengths
+**What did you do particularly well in developing this documentation?**
 - I effectively communicated the project's requirements, constraints, and system functionality.
 - The document provides a clear overview of critical project details.
 - My suggestions demonstrated a thorough understanding of various system-building approaches.
 
+I think I did a good job explaining what the project needed, its limitations, and how the system should work. The document gives a clear picture of the important project details. I believe, my suggestions also show that I understood different ways to build the system.
+
 ## Importance of Design Documents
+**What about the process of working through a design document did you find helpful when developing the code?**
 - A design document acted as a valuable map for the project.
 - It facilitated a deep understanding of the project's scope, requirements, and unalterable aspects.
 
+Having a design document was really helpful because it acted like a map for the project. It helped me understand what the project was about, what it needed, and what I couldn't change.
+
 ## Areas for Improvement
+**If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?**
 - In retrospect, I could have improved the explanation of how different game components connect. Adding more detailed information on their interplay would have enhanced clarity.
 
 ## User-Centric Design
