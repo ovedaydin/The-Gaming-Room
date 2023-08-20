@@ -17,10 +17,10 @@ I think I did a good job explaining what the project needed, its limitations, an
 
 ## Importance of Design Documents
 **What about the process of working through a design document did you find helpful when developing the code?**
-- A design document acted as a valuable map for the project.
-- It facilitated a deep understanding of the project's scope, requirements, and unalterable aspects.
+- A design document acts as a valuable map for the project.
+- It facilitates a deep understanding of the project's scope, requirements, and unalterable aspects.
 
-Having a design document was really helpful because it acted like a map for the project. It helped me understand what the project was about, what it needed, and what I couldn't change.
+Having a design document is really helpful because it acts like a map for the project. It helped me understand what the project was about, what it needed, and what I couldn't change.
 
 ## Areas for Improvement
 **If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?**
